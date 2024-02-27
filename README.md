@@ -17,3 +17,17 @@ TASK 4
  
  Display Result: Show the converted amount and the target currency symbol
  to the user
+
+ For the target currency/Base currency, you should enter the three-letter currency code representing the currency to which you want to convert. It's the currency you want to find the equivalent value in. Examples of currency codes include:
+
+USD for United States Dollar
+
+EUR for Euro
+
+GBP for British Pound
+
+JPY for Japanese Yen
+
+CAD for Canadian Dollar
+
+AUD for Australian Dollar
